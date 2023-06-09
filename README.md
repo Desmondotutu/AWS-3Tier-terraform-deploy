@@ -1,4 +1,4 @@
-# Terra-tier
+# Terraform 3-tier aws deploy
 
 Terra-tier is a python Flask application that is deployed on AWS using a three-tier architecture.
 This project includes terraform scripts that automate the deployment of this application on AWS.
