@@ -14,7 +14,7 @@ This project includes terraform scripts that automate the deployment of this app
 - The DNS name is also printed as output to your screen after you finish running `terraform apply`.
 - Paste this DNS name into a web browser to access your appplication.
 
-[Here]([https://medium.com/@desmondotutu93/devops-using-the-aws-code-pipeline-5f2398f8d07f]) is a guide for you if you wish to manually deploy this application.
+Here is a guide for you if you wish to manually deploy this application.
 
 You can also choose to deploy this application using a CI/CD pipeline, specifically AWS CodePipeline.
 [Here](https://medium.com/@desmondotutu93/devops-using-the-aws-code-pipeline-5f2398f8d07f) is an amazing resource I put up to guide on to deploy this application in a CI/CD pipeline using the blue/green deployment.
